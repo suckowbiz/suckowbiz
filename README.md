@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @suckowbiz
-- 👀 I’m interested in automation.
+- 👀 I’m interested in automation and software engineering.
 - 🌱 I’m currently working with public cloud.
 
 <!---
