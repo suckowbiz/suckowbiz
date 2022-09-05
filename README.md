@@ -1,6 +1,4 @@
-- 👋 Hi, I’m @suckowbiz
-- 👀 I’m interested in automation and software engineering.
-- 🌱 I’m currently working with public cloud.
+Hi, I'm @suckowbiz. I like clean code and good quality. I am interested in automation and software engineering. At the moment I have a focus on Public Cloud.
 
 <!---
 suckowbiz/suckowbiz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
