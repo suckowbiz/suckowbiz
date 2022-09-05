@@ -1,4 +1,4 @@
-Hi, I'm @suckowbiz. I like clean code and good quality. I am interested in automation and software engineering. At the moment I have a focus on Public Cloud.
+Hi, I'm @suckowbiz. I like `clean code`. I am interested in `automation` and `software engineering`.
 
 <!---
 suckowbiz/suckowbiz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
